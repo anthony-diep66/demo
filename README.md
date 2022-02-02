@@ -1,5 +1,2 @@
 # demo
-hello
-edit this file 
-hope this works
-lol
+demo readme for demo file
